@@ -1,0 +1,6 @@
+Log ID,Table Number,Entry Time,Exit Time,Duration (formatted),Duration (seconds)
+10,1,2026-07-28 00:10:58,Still occupied,Still occupied,
+11,2,2026-07-28 00:10:58,2026-07-28 00:12:37,1m 38s,98.82
+12,2,2026-07-28 00:13:11,Still occupied,Still occupied,
+13,1,2026-07-28 00:40:25,Still occupied,Still occupied,
+14,2,2026-07-28 00:40:25,Still occupied,Still occupied,

@@ -1,0 +1,4 @@
+TABLE_ZONES: List[TableZone] = [
+    TableZone(table_id=1, x1=82, y1=201, x2=527, y2=634),
+    TableZone(table_id=2, x1=691, y1=155, x2=1084, y2=418),
+]
