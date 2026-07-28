@@ -1,6 +1,8 @@
-ultralytics>=8.2.0
-opencv-python>=4.9.0
-numpy>=1.26.0
-streamlit>=1.37.0
-streamlit-drawable-canvas>=0.9.3
-pillow>=10.0.0
+streamlit
+opencv-python-headless
+ultralytics
+torch
+torchvision
+numpy
+pandas
+Pillow
